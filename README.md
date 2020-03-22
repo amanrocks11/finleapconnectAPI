@@ -1,3 +1,3 @@
 # finleapconnectAPI
 
-To run just execute '' from terminal
+To run just execute 'python -m pytest API_tests.py --html=report.html' from terminal
